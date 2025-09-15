@@ -11,44 +11,44 @@ const Colors = ({handleChange}) => {
                 handleChange={handleChange}
                 value=""
                 title="All"
-                name="test1"
+                name="color"
             />
             <Input
                 handleChange={handleChange}
                 value="black"
                 title="Black"
-                name="test1"
+                name="color"
                 color="black"
             />
             <Input
                 handleChange={handleChange}
                 value="blue"
                 title="Blue"
-                name="test1"
+                name="color"
                 color="blue"
             />
             <Input
                 handleChange={handleChange}
                 value="red"
                 title="Red"
-                name="test1"
+                name="color"
                 color="red"
             />
             <Input
                 handleChange={handleChange}
                 value="green"
                 title="Green"
-                name="test1"
+                name="color"
                 color="green"
             />
             <Input
                 handleChange={handleChange}
                 value="white"
                 title="White"
-                name="test1"
+                name="color"
             />
             {/*<label className="sidebar-label-container">*/}
-            {/*    <input type="radio" onChange={handleChange} value="white" name="test1"/>*/}
+            {/*    <input type="radio" onChange={handleChange} value="white" name="color"/>*/}
             {/*    <span className="checkmark" style={{backgroundColor: "white", border: "2px solid"}}*/}
             {/*    ></span>White*/}
             {/*</label>*/}
