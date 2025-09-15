@@ -42,7 +42,7 @@ const data = [
         reviews: "(123 reviews)",
         prevPrice: "$140,00",
         newPrice: "200",
-        company: "Adidas",
+        company: "Nike",
         color: "black",
         category: "sneakers",
     },
@@ -260,7 +260,6 @@ const data = [
         color: "red",
         category: "sneakers",
     },
-
     {
         img: "https://m.media-amazon.com/images/I/51PGWTXgf-L._AC_UY625_.jpg",
         title: "Low Mid Block Heels",

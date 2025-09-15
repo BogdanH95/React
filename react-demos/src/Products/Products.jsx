@@ -1,12 +1,11 @@
 ﻿import './products.css'
 import React from 'react';
-import Card from "../components/Card.jsx";
 
-const Products = () => {
+const Products = ({products}) => {
     return (
         <>
             <section className="card-container">
-                <Card />
+                {products}
             </section>
         </>
     );
